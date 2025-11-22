@@ -20,5 +20,6 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "share to renshuu"
-include(":app")
+include(":share-to-renshuu")
+
  
